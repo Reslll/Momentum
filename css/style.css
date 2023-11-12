@@ -1,3 +1,35 @@
+* {
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+
 .hidden {
     display: none;
+}
+
+section {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+
+form input{
+    color: black;
+}
+img {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3) );
+    position:absolute;
+    width:100%;
+    height:100%;
+    left: 0px;
+    top: 0px;
+    right:0px;
+    bottom:0px;
+    z-index: -1;
+    opacity:0.8;
+}
+
+#weather span:first-child {
+    font-size: 15px;
 }

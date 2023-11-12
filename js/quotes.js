@@ -1,43 +1,43 @@
 const quotes = [
     {
         quote: "You have to believe in yourself when no one else does",
-        author: "Serena Williams",
+        author: "- Serena Williams",
     },
     {
         quote: "When you have a dream, you have got to grab it and never let go",
-        author: "Carol Burnett",
+        author: "- Carol Burnett",
     },
     {
         quote: "Spread love everywhere you go. Let no one ever come without leaving happier",
-        author: "Steve Jobs",
+        author: "- Steve Jobs",
     },
     {
         quote: "If you cannot do great things, do small things in a great way",
-        author: "Napoleon Hill",
+        author: "- Napoleon Hill",
     },
     {
         quote: "Be yourself; everyone else is already taken",
-        author: "Oscar Wilde",
+        author: "- Oscar Wilde",
     },
     {
         quote: "If you can do what you do best and be happy, you are further along in life than most people",
-        author: "Leonardo DiCaprio",
+        author: "- Leonardo DiCaprio",
     },
     {
         quote: "The only thing we have to fear is fear itself",
-        author: "Franklin D. Roosevelt",
+        author: "- Franklin D. Roosevelt",
     },
     {
         quote: "You have to believe in yourself when no one else does",
-        author: "Serena Williams",
+        author: "- Serena Williams",
     },
     {
         quote: "It does not matter how slowly you go, as long as you do not stop",
-        author: "Confucius",
+        author: "- Confucius",
     },
     {
         quote: "Find out who you are and do it on purpose",
-        author: "Dolly Parton",
+        author: "- Dolly Parton",
     }
 ];
 
